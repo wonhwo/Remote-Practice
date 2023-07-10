@@ -9,3 +9,5 @@ public class main{
 
 }
 ```
+
+효원이가 만든 Remote 연습에 선진이가 두두등장 
