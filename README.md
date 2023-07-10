@@ -2,7 +2,7 @@
 # 수정
 
 ## README 연습
-[구글링크](https://www.google.com)
+[네이버 링크](https://www.naver.com)
 ```
 public class main{
     private int number;
